@@ -1,8 +1,6 @@
-### Hi there 👋
-
-<h3 align="center">
+<h2 align="center">
 Hi there, I'm <a href="https://www.dostonnabotov.netlify.com/" target="_blank" rel="noreferrer">Doston</a> 👋
-</h3>
+</h2>
 
 I'm a Front-End Developer 💻, Lifelong Learner📖 along with Technophile 👨🏻‍💻 (the one who loves software and technology)! 
 
