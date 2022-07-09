@@ -6,25 +6,25 @@ I'm a Front-End Developer 💻, Lifelong Learner📖 along with Technophile 👨
 
 ### 🤝 Connect with me:
 
-- [LinkedIn](https://www.linkedin.com/in/dostonnabotov/)
-- [Telegram](https://t.me/dostonnabotov)
-- [Email](mailto:doston.nabotov161@gmail.com)
+<a href="https://www.linkedin.com/in/dostonnabotov/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://t.me/dostonnabotov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="mailto:doston.nabotov161@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ### 🔭 I'm currently working on
 
-- Frontend Mentor Challenges
-- Portfolio
-- Personal Blog
-- My Old projects
+  - Frontend Mentor Challenges
+  - Portfolio
+  - Personal Blog
+  - My Old projects
 
 ### 🌱 I’m currently learning
 
-- In-depth JavaScript (ES6+)
-- React
-- Data Structures & Algorithms
-- In-depth SCSS
+  - In-depth JavaScript (ES6+)
+  - React
+  - Data Structures & Algorithms
+  - In-depth SCSS
 
 ### 💼 Technical Skills
 
@@ -44,11 +44,19 @@ I'm a Front-End Developer 💻, Lifelong Learner📖 along with Technophile 👨
 
 ### 📫 Find me on:
 
-- [Frontend Mentor](https://www.frontendmentor.io/profile/dostonnabotov)
-- [Free Code Camp](https://www.freecodecamp.org/dostonnabotov)
-- [Codepen](https://codepen.com/dostonnabotov)
+<a href="https://www.frontendmentor.io/profile/dostonnabotov">
+<img src="https://img.shields.io/badge/-FrontendMentor-f5efef?style=for-the-badge&logo=FrontendMentor&logoColor=black" />
+</a>
+<a href="https://www.freecodecamp.org/dostonnabotov">
+<img src="https://img.shields.io/badge/-FreeCodeCamp-057b1c?style=for-the-badge&logo=FreeCodeCamp&logoColor=white" />
+</a>
+<a href="https://leetcode.com/dostonnabotov/">
+<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+</a>
+<a href="https://codepen.com/dostonnabotov">
+<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+</a>
 
 ### 📈 GitHub Stats 
 
-[![Doston's github stats](https://github-readme-stats.vercel.app/api?username=dostonnabotov)](https://github.com/dostonnabotov)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dostonnabotov&layout=compact)](https://github.com/dostonnabotov)
